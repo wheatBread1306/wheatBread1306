@@ -35,3 +35,5 @@
 
 ### 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-wheatbread.dev-blue?style=flat-square)](https://wheatbread.dev/)
+[![KVR Audio - wheatbreadplugins](https://img.shields.io/badge/KVR%20Audio-wheatbreadplugins-orange?style=flat-square)](https://www.kvraudio.com/developer/wheatbreadplugins)
+[![Gumroad](https://img.shields.io/badge/Gumroad-wheatbread.gumroad.com-red?style=flat-square)](https://wheatbread.gumroad.com/)
