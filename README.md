@@ -2,12 +2,10 @@
 
 **C++ / JUCE Audio Plugin Developer 🎧 | CS Student at Future University Hakodate 🎓**
 
-公立はこだて未来大学でコンピュータサイエンスを学んでいる1年生です。
-
-- 🔭 **現在の取り組み:** C++ / JUCE を用いた VST3 オーディオプラグインの開発
-- 🌱 **学んでいること:** コンピュータサイエンス、デジタル信号処理（DSP）
-- 💬 **Ask me about:** C++, JUCE, オーディオプラグイン開発
-- 📫 **連絡先:** [Portfolio Website](https://wheatbread.dev/)
+- 🔭 **Current focus:** Developing VST3 audio plugins with C++ / JUCE
+- 🌱 **Currently learning:** Computer science, digital signal processing (DSP)
+- 💬 **Ask me about:** C++, JUCE, audio plugin development
+- 📫 **Contact:** [Portfolio Website](https://wheatbread.dev/)
 
 ### 🛠️ Tech Stack
 - **Languages:** C / C++, Java, Python, JavaScript, HTML / CSS
@@ -16,11 +14,11 @@
 
 ### 🎧 Selected Works
 - **[BrickBreakerVST](https://github.com/wheatbread1306/BrickBreakerVST)**
-  ブロック崩しゲームをVST3プラグインとして実装。MIDIピッチホイールで操作し、ロックフリーなスレッド同期を実現しています。
+  A block breaker game implemented as a VST3 plugin. It is controlled with the MIDI pitch wheel and uses lock-free thread synchronization.
 - **[Cathode Drift](https://wheatbread.gumroad.com/l/cathode_drift)**
-  L/Rチャンネルに独立したDCオフセットを適用し、クリッパーで処理するカスタムディストーションプラグイン。（Free at Gumroad）
+  A custom distortion plugin that applies independent DC offsets to the left and right channels, then processes them with a clipper. (Free at Gumroad)
 - **[DeckFilter](https://wheatbread.gumroad.com/l/deck_filter)**
-  DJコントローラーの操作感にインスパイアされた、シンプルで直感的なフィルタープラグイン。（Free at Gumroad）
+  A simple, intuitive filter plugin inspired by the feel of DJ controllers. (Free at Gumroad)
 
 ### 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-wheatbread.dev-blue?style=flat-square)](https://wheatbread.dev/)
