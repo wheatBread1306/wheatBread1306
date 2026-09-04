@@ -26,6 +26,8 @@
 </table>
 
 ### 🎧 Selected Works
+- **[Dispenser](https://github.com/wheatBread1306/Dispenser)**
+  Disperser Clone Plugin. Up to eight cascaded filter modules can be stacked, resulting in a total of up to 64 cascaded APF stages.
 - **[BrickBreakerVST](https://github.com/wheatbread1306/BrickBreakerVST)**
   A block breaker game implemented as a VST3 plugin. It is controlled with the MIDI pitch wheel and uses lock-free thread synchronization.
 - **[Cathode Drift](https://wheatbread.gumroad.com/l/cathode_drift)**
